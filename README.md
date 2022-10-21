@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Awann Staff Apps, Overmanxfit**
 
-- 🌱 I’m currently learning **Flutter,Go , Kotlin**
+- 🌱 I’m currently learning **Flutter, Go, Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
